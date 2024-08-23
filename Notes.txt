@@ -9,4 +9,12 @@ npm i nodemon
 npm i mongoose
 UN - Raju
 PW - Raju@1998
+UN - Ajith
+PW - Ajith1971
 mongodb+srv://Raju:<password>@mern-blog.ynruyoi.mongodb.net/?retryWrites=true&w=majority&appName=mern-blog
+npm i dotenv
+npm i bcryptjs
+npm i jsonwebtoken
+npm install @reduxjs/toolkit react-redux
+extension
+npm i redux-persist
