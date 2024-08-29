@@ -18,3 +18,4 @@ npm i jsonwebtoken
 npm install @reduxjs/toolkit react-redux
 extension
 npm i redux-persist
+npm i cookie-parser
