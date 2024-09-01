@@ -20,3 +20,4 @@ extension
 npm i redux-persist
 npm i cookie-parser
 npm install react-quill --save
+npm install --save-dev tailwind-scrollbar
